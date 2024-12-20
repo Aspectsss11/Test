@@ -49,7 +49,7 @@ shcore.SetProcessDpiAwareness(2)
 WIDTH, HEIGHT = user32.GetSystemMetrics(0), user32.GetSystemMetrics(1)
 
 # Define a screen region to capture for monitoring
-OFFSET = 4.3
+OFFSET = 5
 GRAB_AREA = (
     int(WIDTH / 2 - OFFSET),
     int(HEIGHT / 2 - OFFSET),
