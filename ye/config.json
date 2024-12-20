@@ -1,0 +1,10 @@
+{
+    "trigger_hotkey": "0x06",
+    "always_enabled": false,
+    "trigger_delay": 250,
+    "base_delay": 0.01,
+    "color_tolerance": 55,
+    "fps": 1000,
+    "turbo_mode": true,
+    "priority": "high"
+}
