@@ -6,11 +6,11 @@ Before anything, use this to download all the requirements needed to run the tri
 
 Download Python 3.10 - https://www.python.org/downloads/release/python-3100/ after downloading... |
 
-Open CMD as admin and copy your file destination (where the trigger bot file is) |
+Open CMD as admin and type CD and then your file destination (where the trigger bot file is) |
 
 THEN
 
-pip install -r requirements.txt --- COPY AND PASTE INTO CMD - (ADMIN) | MAKE SURE TO RUN PORT.PY FIRST AND THEN MAIN.PY
+pip install -r requirements.txt --- COPY AND PASTE INTO CMD - (ADMIN) | MAKE SURE TO RUN PORT.PY FIRST AND THEN MAIN.PY, YOU DO THIS BY OPENING CMD AND THEN TYPING CD THEN YOUR FILE DIRECTORY (WHERE THE TRIGGERBOT FILE LOCATION IS) EXAMPLE: CD C:\Users\example\example\example ex\ex
 
 Enjoy using the trigger bot |
 
