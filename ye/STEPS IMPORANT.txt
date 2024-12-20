@@ -10,7 +10,7 @@ Open CMD as admin and copy your file destination (where the trigger bot file is)
 
 THEN
 
-pip install -r requirements.txt --- COPY AND PASTE INTO CMD - (ADMIN) |
+pip install -r requirements.txt --- COPY AND PASTE INTO CMD - (ADMIN) | MAKE SURE TO RUN PORT.PY FIRST AND THEN MAIN.PY
 
 Enjoy using the trigger bot |
 
